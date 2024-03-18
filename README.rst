@@ -44,10 +44,3 @@ To run the simulations:
 1. Ensure you have the required dependencies installed by running `pip install -r requirements.txt` (you will need to create this requirements file based on the libraries used in the notebooks).
 2. Open the `CausalSimulationsNotebook.ipynb` with Jupyter Lab/Notebook and follow the instructions within.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or create issues if you have suggestions or find bugs.
-
----
-
-Please replace any placeholder text with the actual details of your project and feel free to add or remove sections as necessary to match your project's structure and goals.
