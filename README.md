@@ -33,7 +33,7 @@ This repository contains a collection of Jupyter notebooks, Python scripts, and 
 
 ### Setup Files
 
-- `README.rst`: ReStructuredText file, often used for documentation purposes.
+- `README.rst`: Used for documentation purposes.
 
 - `pyproject.toml`: Configuration file to manage the build system requirements for Python projects.
 
